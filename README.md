@@ -1,6 +1,6 @@
 # Abductive Reasoning Alignment: Qwen2.5-3B with SFT + GRPO
 
-This repository contains the code and resources for fine-tuning the **Qwen2.5-3B-Instruct** language model to enhance its **abductive reasoning** capabilities using the **UniADILR** dataset. The project explores whether improving abductive reasoning skills can transfer to deductive reasoning tasks.
+This repository contains the code and resources for fine-tuning the **Qwen2.5-3B-Instruct** language model to enhance its **abductive reasoning** capabilities using the **UniADILR** dataset. The project explores whether improving abductive reasoning skills can transfer to deductive reasoning tasks. Also the project utilizes **QLoRA** and **4-bit quantization** to efficiently align the model's logic and output format.
 
 ## 🚀 Project Overview
 
